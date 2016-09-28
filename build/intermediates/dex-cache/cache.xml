@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_a750dcd377c6c06fb58377ce056f824e6b2b6ed8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_6fe68ad7a63c47644065d0e4ae0c9a062e2dc8ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_60f8d9e5d114ffb059b1382ef7265f1ed19234d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_9db69ea90cbf8d376728548aa5895f2b52022cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bc6cf364836d7b85cdf6f7963b207f782737d52">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b0c0f1dc687c471a6767d27844845ca209e0bd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_9bc3744f9d319c4c7130d913246c208d0809f1b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_16613b02fdb85552a887d12ae17f607c8e2be29a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7f3135d3590d0017c20cb7aa9bdbe511d10b62c8">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_128afad826c293d9068413fb1d71c29157831e8d/classes.dex" />
+    </item>
+
+</items>

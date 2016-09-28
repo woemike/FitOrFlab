@@ -1,0 +1,7 @@
+#Wed Sep 28 00:00:16 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_128afad826c293d9068413fb1d71c29157831e8d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b0c0f1dc687c471a6767d27844845ca209e0bd8/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8b0c0f1dc687c471a6767d27844845ca209e0bd8
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_128afad826c293d9068413fb1d71c29157831e8d/classes.dex

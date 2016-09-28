@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="144001263112541"
+    token="-473810938453930112"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1343" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="159" />
+    <task
+        name="verifier"
+        duration="17" />
+
+    <artifact
+        location="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="144001263112541"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/JohnMike/Documents/Books/Android/Udemy/From Beginner to Paid Professional/Fit or Flab/FitorFlab-Source/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
